@@ -16,4 +16,3 @@ if defined?(PhusionPassenger)
     puts "Dalli: forked reseteando memcached"
   end
 end
-
